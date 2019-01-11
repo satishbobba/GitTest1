@@ -10,7 +10,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            // Change was added in Github
+            // Change was edited in Github
         }
     }
 }
