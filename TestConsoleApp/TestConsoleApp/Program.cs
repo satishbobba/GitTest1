@@ -12,6 +12,8 @@ namespace TestConsoleApp
         {
             // Change was edited in Github
             // Code was added in VS
+
+            // Code to call Feature 1
         }
     }
 }
