@@ -14,6 +14,8 @@ namespace TestConsoleApp
             // Code was added in VS
 
             // Code to call Feature 1
+
+            // Code to call Feature 2
         }
     }
 }
